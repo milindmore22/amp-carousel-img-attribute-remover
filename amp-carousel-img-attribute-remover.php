@@ -9,7 +9,7 @@
  *
  * @wordpress-plugin
  * Plugin Name: AMP Carousel object-fit property remover.
- * Plugin URI: 
+ * Plugin URI: https://github.com/milindmore22/amp-carousel-img-attribute-remover/
  * Description: Removes object-fit="cover" attribute added to amp-carousel images.
  * Version: 0.1
  * Author: Milind, Google
